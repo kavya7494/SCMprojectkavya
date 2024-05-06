@@ -15,15 +15,13 @@
 }
 .nav-logo
 {
-    height: 50px;
-    width: 2000px;
-}
+
 .logo
 {
-    height: 50px;
-    width: 100px;
+    height: 80px;
+    width: 140px;
     background-size: cover;
-    color: darkgoldenrod;
+    color: yellow;
     
 }
 .border

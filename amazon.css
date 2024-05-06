@@ -10,7 +10,7 @@
     background-color: #0f1111;
     color: white;
     display: flex;
-    align-items: right;
+    align-items: left;
     justify-content: space-evenly;
 }
 .nav-logo
@@ -23,7 +23,7 @@
     height: 50px;
     width: 100px;
     background-size: cover;
-    color: darkgoldenrod;
+    color: blue;
     
 }
 .border

@@ -7,10 +7,10 @@
 .navbar
 {
     height: 60px;
-    background-color: #0f1111;
+    background-color: white;
     color: white;
     display: flex;
-    align-items: right;
+    align-items: left;
     justify-content: space-evenly;
 }
 .nav-logo
@@ -21,8 +21,7 @@
     height: 90px;
     width: 130px;
     background-size: cover;
-    color: red;
-    
+   
 }
 .border
 {

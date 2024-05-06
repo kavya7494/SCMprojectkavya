@@ -10,13 +10,13 @@
     background-color: #0f1111;
     color: white;
     display: flex;
-    align-items: center;
+    align-items: right;
     justify-content: space-evenly;
 }
 .nav-logo
 {
     height: 50px;
-    width: 100px;
+    width: 2000px;
 }
 .logo
 {
